@@ -6,6 +6,10 @@
   height: 100vh;
 }
 
+.font {
+  font-family: "Lancelot", serif;
+}
+
 h1 {
   margin-top: 190px;
   margin-left: 50px;
@@ -18,4 +22,29 @@ h1 {
   margin-left: 50px;
   background: #f55;
   font-family: "Lancelot", serif;
+}
+
+.img-fluid {
+  height: 400px;
+}
+
+.intro-pic {
+  margin-top: 50%;
+}
+
+.Holiday-Collection {
+  background-color: #a93a45d2;
+}
+
+.cake-name {
+  font-family: "Lancelot", serif;
+  font-size: 30px;
+}
+
+.delicious {
+  background-color: bisque;
+}
+
+.delicious-pics {
+  margin-bottom: 10%;
 }
